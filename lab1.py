@@ -1,1 +1,2 @@
-import nltk, scipyc, numpy, matplotlib, pandas
+import nltk, scipy, numpy, matplotlib, pandas
+print("installed packages")
